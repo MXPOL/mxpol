@@ -4,7 +4,7 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (1 day ago)
+- [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (2 days ago)
 - [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (2 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -17,7 +17,7 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (5 days ago)
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (6 days ago)
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (1 month ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (4 months ago)
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (6 months ago)
