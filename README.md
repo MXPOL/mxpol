@@ -9,10 +9,10 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Mongo to V3](https://github.com/wix/velo-external-db/pull/397) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
-- [Collection and field capabilities tests refactor ](https://github.com/wix/velo-external-db/pull/396) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [Mongo to V3](https://github.com/wix/velo-external-db/pull/397) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [Collection and field capabilities tests refactor ](https://github.com/wix/velo-external-db/pull/396) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
 - [mongo data generator tool](https://github.com/wix/velo-external-db/pull/386) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
-- [Capabilities property in collection object](https://github.com/wix/velo-external-db/pull/381) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
+- [Capabilities property in collection object](https://github.com/wix/velo-external-db/pull/381) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
 - [Number type implementation using float](https://github.com/wix/velo-external-db/pull/378) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 
 #### ⭐ Recent Stars
