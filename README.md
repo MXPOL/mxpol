@@ -4,7 +4,7 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (4 weeks ago)
+- [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (1 month ago)
 - [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -17,7 +17,7 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (6 days ago)
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 week ago)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (1 month ago)
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (2 months ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (5 months ago)
