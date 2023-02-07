@@ -4,8 +4,8 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (today)
 - [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (1 month ago)
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (3 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
