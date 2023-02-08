@@ -4,13 +4,13 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (today)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (1 day ago)
 - [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [BigQuery to v3](https://github.com/wix/velo-external-db/pull/406) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
-- [New properties in CollectionCapabilities and FieldCapabilities](https://github.com/wix/velo-external-db/pull/398) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
+- [BigQuery to v3](https://github.com/wix/velo-external-db/pull/406) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
+- [New properties in CollectionCapabilities and FieldCapabilities](https://github.com/wix/velo-external-db/pull/398) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [Mongo to V3](https://github.com/wix/velo-external-db/pull/397) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [Collection and field capabilities tests refactor ](https://github.com/wix/velo-external-db/pull/396) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [mongo data generator tool](https://github.com/wix/velo-external-db/pull/386) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
