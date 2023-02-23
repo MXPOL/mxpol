@@ -11,7 +11,7 @@ I'm a back-end developer.
 
 - [BigQuery to v3](https://github.com/wix/velo-external-db/pull/406) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [New properties in CollectionCapabilities and FieldCapabilities](https://github.com/wix/velo-external-db/pull/398) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
-- [Mongo to V3](https://github.com/wix/velo-external-db/pull/397) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
+- [Mongo to V3](https://github.com/wix/velo-external-db/pull/397) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Collection and field capabilities tests refactor ](https://github.com/wix/velo-external-db/pull/396) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [mongo data generator tool](https://github.com/wix/velo-external-db/pull/386) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 
