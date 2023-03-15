@@ -9,7 +9,7 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [steam collection list correctly](https://github.com/wix/velo-external-db/pull/429) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
+- [steam collection list correctly](https://github.com/wix/velo-external-db/pull/429) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
 - [Google sheets to v3](https://github.com/wix/velo-external-db/pull/423) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Bigquery to v3 ](https://github.com/wix/velo-external-db/pull/421) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [BigQuery to v3](https://github.com/wix/velo-external-db/pull/406) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
@@ -21,7 +21,7 @@ I'm a back-end developer.
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (2 months ago)
 - [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (3 months ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (6 months ago)
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (8 months ago)
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (9 months ago)
 
 #### Connect with me
 
