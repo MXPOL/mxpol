@@ -9,9 +9,9 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [steam collection list correctly](https://github.com/wix/velo-external-db/pull/429) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
+- [steam collection list correctly](https://github.com/wix/velo-external-db/pull/429) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
 - [Google sheets to v3](https://github.com/wix/velo-external-db/pull/423) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
-- [Bigquery to v3 ](https://github.com/wix/velo-external-db/pull/421) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
+- [Bigquery to v3 ](https://github.com/wix/velo-external-db/pull/421) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [BigQuery to v3](https://github.com/wix/velo-external-db/pull/406) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [New properties in CollectionCapabilities and FieldCapabilities](https://github.com/wix/velo-external-db/pull/398) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 
