@@ -17,10 +17,10 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [shilomagen/passport-extension](https://github.com/shilomagen/passport-extension) -  (4 weeks ago)
+- [shilomagen/passport-extension](https://github.com/shilomagen/passport-extension) -  (1 month ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (2 months ago)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (3 months ago)
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (4 months ago)
+- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox. (5 months ago)
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (8 months ago)
 
 #### Connect with me
