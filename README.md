@@ -9,11 +9,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [App info refactor](https://github.com/wix/velo-external-db/pull/446) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [App info refactor](https://github.com/wix/velo-external-db/pull/446) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
 - [Google sheets with cache ](https://github.com/wix/velo-external-db/pull/434) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Data provider with cache - POC ](https://github.com/wix/velo-external-db/pull/433) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [steam collection list correctly](https://github.com/wix/velo-external-db/pull/429) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
-- [Google sheets to v3](https://github.com/wix/velo-external-db/pull/423) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
+- [Google sheets to v3](https://github.com/wix/velo-external-db/pull/423) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
 
 #### ⭐ Recent Stars
 
