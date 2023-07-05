@@ -5,7 +5,7 @@ I'm a back-end developer.
 #### 👷 Check out what I'm currently working on
 
 - [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (4 months ago)
-- [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (5 months ago)
+- [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (6 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -17,7 +17,7 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (4 weeks ago)
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (1 month ago)
 - [shilomagen/passport-extension](https://github.com/shilomagen/passport-extension) -  (3 months ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (5 months ago)
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing. (6 months ago)
