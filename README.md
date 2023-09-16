@@ -9,7 +9,7 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Adapter with omitTotalCount flag](https://github.com/wix/velo-external-db/pull/453) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
+- [Adapter with omitTotalCount flag](https://github.com/wix/velo-external-db/pull/453) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
 - [Data SPI v4 implementation](https://github.com/wix/velo-external-db/pull/452) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
 - [App info refactor](https://github.com/wix/velo-external-db/pull/446) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 months ago)
 - [Google sheets with cache ](https://github.com/wix/velo-external-db/pull/434) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 months ago)
