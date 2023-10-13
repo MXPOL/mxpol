@@ -11,7 +11,7 @@ I'm a back-end developer.
 
 - [Data SPI v4 implementation ](https://github.com/wix/velo-external-db/pull/459) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Omit total count manged fix](https://github.com/wix/velo-external-db/pull/458) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
-- [Adapter with omitTotalCount flag](https://github.com/wix/velo-external-db/pull/453) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
+- [Adapter with omitTotalCount flag](https://github.com/wix/velo-external-db/pull/453) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Data SPI v4 implementation](https://github.com/wix/velo-external-db/pull/452) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [App info refactor](https://github.com/wix/velo-external-db/pull/446) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 months ago)
 
