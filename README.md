@@ -9,11 +9,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Managed adapter lint fixes](https://github.com/wix/velo-external-db/pull/462) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
-- [Data SPI v4 implementation ](https://github.com/wix/velo-external-db/pull/459) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
-- [Omit total count manged fix](https://github.com/wix/velo-external-db/pull/458) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
+- [Managed adapter lint fixes](https://github.com/wix/velo-external-db/pull/462) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
+- [Data SPI v4 implementation ](https://github.com/wix/velo-external-db/pull/459) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
+- [Omit total count manged fix](https://github.com/wix/velo-external-db/pull/458) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
 - [Adapter with omitTotalCount flag](https://github.com/wix/velo-external-db/pull/453) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
-- [Data SPI v4 implementation](https://github.com/wix/velo-external-db/pull/452) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
+- [Data SPI v4 implementation](https://github.com/wix/velo-external-db/pull/452) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
 
 #### ⭐ Recent Stars
 
