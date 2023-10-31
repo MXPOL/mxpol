@@ -9,11 +9,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix for tests running in Node 20](https://github.com/wix/velo-external-db/pull/465) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [Collection v4 SPI support](https://github.com/wix/velo-external-db/pull/463) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
 - [Managed adapter lint fixes](https://github.com/wix/velo-external-db/pull/462) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [Data SPI v4 implementation ](https://github.com/wix/velo-external-db/pull/459) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
 - [Omit total count manged fix](https://github.com/wix/velo-external-db/pull/458) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
-- [Adapter with omitTotalCount flag](https://github.com/wix/velo-external-db/pull/453) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 
 #### ⭐ Recent Stars
 
