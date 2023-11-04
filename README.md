@@ -4,13 +4,13 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (3 days ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (4 days ago)
 - [MXPOL/mxpol](https://github.com/MXPOL/mxpol) -  (10 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix for tests running in Node 20](https://github.com/wix/velo-external-db/pull/465) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
-- [Collection v4 SPI support](https://github.com/wix/velo-external-db/pull/463) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
+- [Fix for tests running in Node 20](https://github.com/wix/velo-external-db/pull/465) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
+- [Collection v4 SPI support](https://github.com/wix/velo-external-db/pull/463) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
 - [Managed adapter lint fixes](https://github.com/wix/velo-external-db/pull/462) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [Data SPI v4 implementation ](https://github.com/wix/velo-external-db/pull/459) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Omit total count manged fix](https://github.com/wix/velo-external-db/pull/458) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
