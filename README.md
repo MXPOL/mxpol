@@ -9,7 +9,7 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [JWT config reader refactor](https://github.com/wix/velo-external-db/pull/467) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [JWT config reader refactor](https://github.com/wix/velo-external-db/pull/467) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
 - [Fix for tests running in Node 20](https://github.com/wix/velo-external-db/pull/465) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Collection v4 SPI support](https://github.com/wix/velo-external-db/pull/463) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Managed adapter lint fixes](https://github.com/wix/velo-external-db/pull/462) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
