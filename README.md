@@ -9,7 +9,7 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Enable JWT middleware](https://github.com/wix/velo-external-db/pull/468) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
+- [Enable JWT middleware](https://github.com/wix/velo-external-db/pull/468) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
 - [JWT config reader refactor](https://github.com/wix/velo-external-db/pull/467) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Fix for tests running in Node 20](https://github.com/wix/velo-external-db/pull/465) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [Collection v4 SPI support](https://github.com/wix/velo-external-db/pull/463) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
