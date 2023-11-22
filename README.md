@@ -9,11 +9,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Remove allowedMetaSite env](https://github.com/wix/velo-external-db/pull/473) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [Data routes renaming](https://github.com/wix/velo-external-db/pull/469) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
 - [Enable JWT middleware](https://github.com/wix/velo-external-db/pull/468) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [JWT config reader refactor](https://github.com/wix/velo-external-db/pull/467) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [Fix for tests running in Node 20](https://github.com/wix/velo-external-db/pull/465) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
-- [Collection v4 SPI support](https://github.com/wix/velo-external-db/pull/463) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
