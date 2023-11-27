@@ -9,9 +9,9 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Schema create refactor](https://github.com/wix/velo-external-db/pull/474) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
-- [Remove allowedMetaSite env](https://github.com/wix/velo-external-db/pull/473) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
-- [Data routes renaming](https://github.com/wix/velo-external-db/pull/469) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
+- [Schema create refactor](https://github.com/wix/velo-external-db/pull/474) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
+- [Remove allowedMetaSite env](https://github.com/wix/velo-external-db/pull/473) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
+- [Data routes renaming](https://github.com/wix/velo-external-db/pull/469) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
 - [Enable JWT middleware](https://github.com/wix/velo-external-db/pull/468) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [JWT config reader refactor](https://github.com/wix/velo-external-db/pull/467) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 
