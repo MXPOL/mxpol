@@ -9,15 +9,15 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [App info route update ](https://github.com/wix/velo-external-db/pull/476) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
-- [New field length](https://github.com/wix/velo-external-db/pull/475) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
+- [App info route update ](https://github.com/wix/velo-external-db/pull/476) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [New field length](https://github.com/wix/velo-external-db/pull/475) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
 - [Schema create refactor](https://github.com/wix/velo-external-db/pull/474) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Remove allowedMetaSite env](https://github.com/wix/velo-external-db/pull/473) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Data routes renaming](https://github.com/wix/velo-external-db/pull/469) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 week ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 weeks ago)
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (5 months ago)
 - [shilomagen/passport-extension](https://github.com/shilomagen/passport-extension) -  (8 months ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (10 months ago)
