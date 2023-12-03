@@ -9,11 +9,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Publish action refactor](https://github.com/wix/velo-external-db/pull/477) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [App info route update ](https://github.com/wix/velo-external-db/pull/476) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
 - [New field length](https://github.com/wix/velo-external-db/pull/475) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
 - [Schema create refactor](https://github.com/wix/velo-external-db/pull/474) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Remove allowedMetaSite env](https://github.com/wix/velo-external-db/pull/473) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
-- [Data routes renaming](https://github.com/wix/velo-external-db/pull/469) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 
 #### ⭐ Recent Stars
 
