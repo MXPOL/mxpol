@@ -9,11 +9,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Projection fix](https://github.com/wix/velo-external-db/pull/480) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
-- [Publish action - push all flags](https://github.com/wix/velo-external-db/pull/479) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
-- [Publish action update](https://github.com/wix/velo-external-db/pull/478) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
-- [Publish action refactor](https://github.com/wix/velo-external-db/pull/477) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
-- [App info route update ](https://github.com/wix/velo-external-db/pull/476) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
+- [Projection fix](https://github.com/wix/velo-external-db/pull/480) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [Publish action - push all flags](https://github.com/wix/velo-external-db/pull/479) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
+- [Publish action update](https://github.com/wix/velo-external-db/pull/478) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
+- [Publish action refactor](https://github.com/wix/velo-external-db/pull/477) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
+- [App info route update ](https://github.com/wix/velo-external-db/pull/476) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
 
 #### ⭐ Recent Stars
 
