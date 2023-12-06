@@ -9,11 +9,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactor mysql schema translation for text and object fields](https://github.com/wix/velo-external-db/pull/482) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
-- [Fix column type](https://github.com/wix/velo-external-db/pull/481) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
-- [Projection fix](https://github.com/wix/velo-external-db/pull/480) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
-- [Publish action - push all flags](https://github.com/wix/velo-external-db/pull/479) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
-- [Publish action update](https://github.com/wix/velo-external-db/pull/478) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
+- [Refactor mysql schema translation for text and object fields](https://github.com/wix/velo-external-db/pull/482) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [Fix column type](https://github.com/wix/velo-external-db/pull/481) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [Projection fix](https://github.com/wix/velo-external-db/pull/480) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
+- [Publish action - push all flags](https://github.com/wix/velo-external-db/pull/479) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
+- [Publish action update](https://github.com/wix/velo-external-db/pull/478) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
 
 #### ⭐ Recent Stars
 
