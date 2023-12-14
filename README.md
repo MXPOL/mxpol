@@ -9,7 +9,7 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Data item modification result refactor](https://github.com/wix/velo-external-db/pull/483) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
+- [Data item modification result refactor](https://github.com/wix/velo-external-db/pull/483) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
 - [Refactor SQL schema translation for text and object fields](https://github.com/wix/velo-external-db/pull/482) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Fix column type](https://github.com/wix/velo-external-db/pull/481) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Projection fix](https://github.com/wix/velo-external-db/pull/480) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
