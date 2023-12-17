@@ -9,15 +9,15 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Data item modification result refactor](https://github.com/wix/velo-external-db/pull/483) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
+- [Data item modification result refactor](https://github.com/wix/velo-external-db/pull/483) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Refactor SQL schema translation for text and object fields](https://github.com/wix/velo-external-db/pull/482) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Fix column type](https://github.com/wix/velo-external-db/pull/481) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Projection fix](https://github.com/wix/velo-external-db/pull/480) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
-- [Publish action - push all flags](https://github.com/wix/velo-external-db/pull/479) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
+- [Publish action - push all flags](https://github.com/wix/velo-external-db/pull/479) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 weeks ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 month ago)
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (6 months ago)
 - [shilomagen/passport-extension](https://github.com/shilomagen/passport-extension) -  (8 months ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (10 months ago)
