@@ -4,15 +4,15 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (4 days ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (5 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/493) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
-- [Node version V3](https://github.com/wix/velo-external-db/pull/491) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
-- [Publish yaml refactor](https://github.com/wix/velo-external-db/pull/490) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
-- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/488) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
-- [Collection change not supported error](https://github.com/wix/velo-external-db/pull/487) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
+- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/493) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
+- [Node version V3](https://github.com/wix/velo-external-db/pull/491) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
+- [Publish yaml refactor](https://github.com/wix/velo-external-db/pull/490) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
+- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/488) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
+- [Collection change not supported error](https://github.com/wix/velo-external-db/pull/487) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 
 #### ⭐ Recent Stars
 
