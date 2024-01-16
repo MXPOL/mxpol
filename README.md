@@ -4,19 +4,19 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (6 days ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [External db logger](https://github.com/wix/velo-external-db/pull/496) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
+- [External db logger](https://github.com/wix/velo-external-db/pull/496) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
 - [Error SPI implementation](https://github.com/wix/velo-external-db/pull/493) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Node version V3](https://github.com/wix/velo-external-db/pull/491) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Publish yaml refactor](https://github.com/wix/velo-external-db/pull/490) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
-- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/488) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
+- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/488) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 month ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 months ago)
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (7 months ago)
 - [shilomagen/passport-extension](https://github.com/shilomagen/passport-extension) -  (9 months ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (11 months ago)
