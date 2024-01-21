@@ -4,13 +4,13 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (2 days ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (3 days ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Richcontent field type fix](https://github.com/wix/velo-external-db/pull/498) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
-- [Error response fix](https://github.com/wix/velo-external-db/pull/497) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
-- [External db logger](https://github.com/wix/velo-external-db/pull/496) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 days ago)
+- [Richcontent field type fix](https://github.com/wix/velo-external-db/pull/498) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
+- [Error response fix](https://github.com/wix/velo-external-db/pull/497) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
+- [External db logger](https://github.com/wix/velo-external-db/pull/496) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
 - [Error SPI implementation](https://github.com/wix/velo-external-db/pull/493) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Node version V3](https://github.com/wix/velo-external-db/pull/491) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 
