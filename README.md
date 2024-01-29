@@ -10,8 +10,8 @@ I'm a back-end developer.
 
 - [Richcontent field type fix](https://github.com/wix/velo-external-db/pull/498) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Error response fix](https://github.com/wix/velo-external-db/pull/497) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
-- [External db logger](https://github.com/wix/velo-external-db/pull/496) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
-- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/493) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
+- [External db logger](https://github.com/wix/velo-external-db/pull/496) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
+- [Error SPI implementation](https://github.com/wix/velo-external-db/pull/493) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
 - [Node version V3](https://github.com/wix/velo-external-db/pull/491) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
 
 #### ⭐ Recent Stars
