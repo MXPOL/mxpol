@@ -8,11 +8,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [New defaults in publish action](https://github.com/wix/velo-external-db/pull/502) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [Richcontent field type fix](https://github.com/wix/velo-external-db/pull/498) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
 - [Error response fix](https://github.com/wix/velo-external-db/pull/497) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
-- [External db logger](https://github.com/wix/velo-external-db/pull/496) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
