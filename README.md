@@ -4,12 +4,12 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (6 days ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (1 week ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
-- [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 days ago)
+- [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
+- [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 week ago)
 - [New defaults in publish action](https://github.com/wix/velo-external-db/pull/502) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 weeks ago)
 - [Richcontent field type fix](https://github.com/wix/velo-external-db/pull/498) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Error response fix](https://github.com/wix/velo-external-db/pull/497) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
