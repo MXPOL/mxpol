@@ -4,7 +4,7 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [MXPOL/qrcode-file-transfer](https://github.com/MXPOL/qrcode-file-transfer) -  (2 days ago)
+- [MXPOL/qrcode-file-transfer](https://github.com/MXPOL/qrcode-file-transfer) -  (3 days ago)
 - [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -17,9 +17,9 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (5 days ago)
+- [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (6 days ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (4 months ago)
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (9 months ago)
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (10 months ago)
 - [shilomagen/passport-extension](https://github.com/shilomagen/passport-extension) -  (1 year ago)
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! (1 year ago)
 
