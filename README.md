@@ -4,12 +4,12 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (1 week ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (2 weeks ago)
 - [MXPOL/qrcode-file-transfer](https://github.com/MXPOL/qrcode-file-transfer) -  (1 month ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Index spi impl](https://github.com/wix/velo-external-db/pull/522) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
+- [Index spi impl](https://github.com/wix/velo-external-db/pull/522) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
 - [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
 - [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
 - [New defaults in publish action](https://github.com/wix/velo-external-db/pull/502) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
