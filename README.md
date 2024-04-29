@@ -12,7 +12,7 @@ I'm a back-end developer.
 - [Index spi impl](https://github.com/wix/velo-external-db/pull/522) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 weeks ago)
 - [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
 - [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
-- [New defaults in publish action](https://github.com/wix/velo-external-db/pull/502) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
+- [New defaults in publish action](https://github.com/wix/velo-external-db/pull/502) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 months ago)
 - [Richcontent field type fix](https://github.com/wix/velo-external-db/pull/498) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 months ago)
 
 #### ⭐ Recent Stars
