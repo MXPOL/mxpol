@@ -11,8 +11,8 @@ I'm a back-end developer.
 
 - [SSL flag in AWS postgres instance ](https://github.com/wix/velo-external-db/pull/530) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 weeks ago)
 - [Index spi impl](https://github.com/wix/velo-external-db/pull/522) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
-- [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 months ago)
-- [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 months ago)
+- [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 months ago)
+- [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 months ago)
 - [New defaults in publish action](https://github.com/wix/velo-external-db/pull/502) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 months ago)
 
 #### ⭐ Recent Stars
