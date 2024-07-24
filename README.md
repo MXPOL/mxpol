@@ -17,8 +17,8 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (5 days ago)
-- [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (2 weeks ago)
+- [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (6 days ago)
+- [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (3 weeks ago)
 - [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (4 months ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (8 months ago)
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   (1 year ago)
