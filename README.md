@@ -4,7 +4,7 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (4 months ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (5 months ago)
 - [MXPOL/qrcode-file-transfer](https://github.com/MXPOL/qrcode-file-transfer) -  (5 months ago)
 
 #### 🔨 Latest Pull Requests I published
@@ -17,7 +17,7 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 day ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (2 days ago)
 - [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (1 month ago)
 - [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (2 months ago)
 - [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (5 months ago)
