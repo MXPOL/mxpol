@@ -17,8 +17,8 @@ I'm a back-end developer.
 
 #### ⭐ Recent Stars
 
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (6 days ago)
-- [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (1 month ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 week ago)
+- [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (2 months ago)
 - [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (2 months ago)
 - [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (5 months ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (10 months ago)
