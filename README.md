@@ -9,7 +9,7 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [SSL flag in AWS postgres instance ](https://github.com/wix/velo-external-db/pull/530) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (5 months ago)
+- [SSL flag in AWS postgres instance ](https://github.com/wix/velo-external-db/pull/530) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 months ago)
 - [Index spi impl](https://github.com/wix/velo-external-db/pull/522) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (7 months ago)
 - [Error logging fix  ](https://github.com/wix/velo-external-db/pull/516) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (9 months ago)
 - [Error logging fix](https://github.com/wix/velo-external-db/pull/514) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (9 months ago)
@@ -21,7 +21,7 @@ I'm a back-end developer.
 - [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (3 months ago)
 - [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (4 months ago)
 - [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (7 months ago)
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (11 months ago)
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (1 year ago)
 
 #### Connect with me
 
