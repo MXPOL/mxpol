@@ -4,16 +4,16 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (2 weeks ago)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (today)
 - [MXPOL/qrcode-file-transfer](https://github.com/MXPOL/qrcode-file-transfer) -  (11 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
+- [Github action: Update actions/cache to v4 to resolve deprecation](https://github.com/wix/velo-external-db/pull/538) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [Update dependencies action](https://github.com/wix/velo-external-db/pull/535) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Feat: Add scheduled workflow for testing](https://github.com/wix/velo-external-db/pull/534) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Refactor: Update Publish Action to Push to GCP Artifact Registry](https://github.com/wix/velo-external-db/pull/533) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [pin mysql version &#43; package update](https://github.com/wix/velo-external-db/pull/532) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
-- [SSL flag in AWS postgres instance ](https://github.com/wix/velo-external-db/pull/530) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (9 months ago)
 
 #### ⭐ Recent Stars
 
