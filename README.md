@@ -4,12 +4,12 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (today)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (1 day ago)
 - [MXPOL/qrcode-file-transfer](https://github.com/MXPOL/qrcode-file-transfer) -  (11 months ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [Github action: Update actions/cache to v4 to resolve deprecation](https://github.com/wix/velo-external-db/pull/538) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
+- [Github action: Update actions/cache to v4 to resolve deprecation](https://github.com/wix/velo-external-db/pull/538) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
 - [Update dependencies action](https://github.com/wix/velo-external-db/pull/535) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Feat: Add scheduled workflow for testing](https://github.com/wix/velo-external-db/pull/534) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Refactor: Update Publish Action to Push to GCP Artifact Registry](https://github.com/wix/velo-external-db/pull/533) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
