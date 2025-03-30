@@ -5,7 +5,6 @@ I'm a back-end developer.
 #### 👷 Check out what I'm currently working on
 
 - [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (3 weeks ago)
-- [MXPOL/qrcode-file-transfer](https://github.com/MXPOL/qrcode-file-transfer) -  (1 year ago)
 
 #### 🔨 Latest Pull Requests I published
 
