@@ -4,11 +4,11 @@ I'm a back-end developer.
 
 #### 👷 Check out what I'm currently working on
 
-- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (today)
+- [wix/velo-external-db](https://github.com/wix/velo-external-db) -  (1 day ago)
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: increase request body size limit for JSON and URL-encoded data](https://github.com/wix/velo-external-db/pull/541) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
+- [feat: increase request body size limit for JSON and URL-encoded data](https://github.com/wix/velo-external-db/pull/541) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
 - [Github action: Update actions/cache to v4 to resolve deprecation](https://github.com/wix/velo-external-db/pull/538) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 month ago)
 - [Update dependencies action](https://github.com/wix/velo-external-db/pull/535) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
 - [Feat: Add scheduled workflow for testing](https://github.com/wix/velo-external-db/pull/534) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 months ago)
