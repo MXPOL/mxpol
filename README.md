@@ -18,7 +18,7 @@ I'm a back-end developer.
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (9 months ago)
 - [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (11 months ago)
-- [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (11 months ago)
+- [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (1 year ago)
 - [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (1 year ago)
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (2 years ago)
 
