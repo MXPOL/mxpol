@@ -17,7 +17,7 @@ I'm a back-end developer.
 #### ⭐ Recent Stars
 
 - [UrbanCircles/scribe](https://github.com/UrbanCircles/scribe) - Simple, reliable, distraction free writer to nudge you towards a better life story. It&#39;ll show your receipts. (3 weeks ago)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (10 months ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (11 months ago)
 - [izikavi/HA-Minimalist-UI](https://github.com/izikavi/HA-Minimalist-UI) -  (1 year ago)
 - [TomerFi/switcher_webapi](https://github.com/TomerFi/switcher_webapi) - Gain containerized access to your local Switcher smart devices (1 year ago)
 - [chrishubert/whatsapp-api](https://github.com/chrishubert/whatsapp-api) - This project is a REST API wrapper for the whatsapp-web.js library, providing an easy-to-use interface to interact with the WhatsApp Web platform. (1 year ago)
