@@ -8,11 +8,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Revert &#34;Fix/add node type to tsconfig ex db config&#34;](https://github.com/wix/velo-external-db/pull/549) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [Fix/add node type to tsconfig ex db config](https://github.com/wix/velo-external-db/pull/548) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [Update TypeScript configuration to include Node types](https://github.com/wix/velo-external-db/pull/547) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [add node type to tsconfig - v2 version branch ](https://github.com/wix/velo-external-db/pull/546) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (today)
 - [Docker publish action refactor - adapter v2](https://github.com/wix/velo-external-db/pull/545) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 months ago)
-- [ Req payload limit increase adapter v2 ](https://github.com/wix/velo-external-db/pull/544) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (6 months ago)
 
 #### ⭐ Recent Stars
 
