@@ -8,11 +8,11 @@ I'm a back-end developer.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: Resolve Jest module resolution for @typespec/ts-http-runtim](https://github.com/wix/velo-external-db/pull/554) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (1 day ago)
-- [chore: upgrade Jest to v30, Nx to v19, and TypeScript to v5](https://github.com/wix/velo-external-db/pull/552) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
-- [Revert &#34;Fix/add node type to tsconfig ex db config&#34;](https://github.com/wix/velo-external-db/pull/549) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
-- [Fix/add node type to tsconfig ex db config](https://github.com/wix/velo-external-db/pull/548) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
-- [Update TypeScript configuration to include Node types](https://github.com/wix/velo-external-db/pull/547) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
+- [fix: Resolve Jest module resolution for @typespec/ts-http-runtim](https://github.com/wix/velo-external-db/pull/554) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (2 days ago)
+- [chore: upgrade Jest to v30, Nx to v19, and TypeScript to v5](https://github.com/wix/velo-external-db/pull/552) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (3 days ago)
+- [Revert &#34;Fix/add node type to tsconfig ex db config&#34;](https://github.com/wix/velo-external-db/pull/549) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
+- [Fix/add node type to tsconfig ex db config](https://github.com/wix/velo-external-db/pull/548) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
+- [Update TypeScript configuration to include Node types](https://github.com/wix/velo-external-db/pull/547) on [wix/velo-external-db](https://github.com/wix/velo-external-db) (4 days ago)
 
 #### ⭐ Recent Stars
 
